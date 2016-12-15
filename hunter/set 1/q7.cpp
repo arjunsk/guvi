@@ -14,9 +14,9 @@ using namespace std;
 unsigned long long mod=1000000007;
 
 int main(){
-
+ // Same as Q4
  int n;
- cin>>n;
+ scanf("%d",&n);
 
  int arr[n];
  for(int i=0;i<n;i++)

@@ -45,7 +45,7 @@ int main(){
  sort(arr.begin(),arr.end(),greaterThanBitsComparator );
 
  for(int i=0;i<n;i++)
-    cout<<arr[i]<<" ";
+    cout<<arr[i]<<endl;
     
  return 0;
 }
